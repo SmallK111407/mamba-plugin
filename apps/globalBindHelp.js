@@ -21,9 +21,8 @@ export class globalBindHelp extends plugin {
 
   async help() {
     const messages = [([
-      '1.首先选择任意渠道下载软件【国际服一键获取Stoken.apk】\n',
-      '123盘: https://www.123pan.com/s/6QMTjv-w0L0h.html\n',
-      '蓝奏云盘: https://wwl.lanzoum.com/iJfOF1x21ave 密码:gycb'
+      '1.首先下载软件【国际服一键获取Stoken.apk】\n',
+      '使用123盘: https://www.123pan.com/s/6QMTjv-w0L0h.html\n',
     ]), ([
       '2.下载完后打开代理后进入此软件', segment.image(`${_path}/resources/globalBindHelp/1.png`),
       `\n随后输入自己的邮箱账号密码并登录`
