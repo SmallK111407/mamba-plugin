@@ -1,0 +1,24 @@
+{
+  "name": "mamba-plugin",
+  "version": "1.0.0",
+  "description": "Yunzai-Bot曼巴插件",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/SmallK071114/mamba-plugin.git"
+  },
+  "keywords": [
+    "Yunzai-Bot",
+    "Miao-Yunzai",
+    "TRSS-Yunzai",
+    "mamba-plugin"
+  ],
+  "author": "SunRyK",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
