@@ -14,11 +14,11 @@
 
 **Github**
 ```
-git clone --depth=1 https://github.com/SmallK111407/mamba-plugin.git /plugins/mamba-plugin/
+git clone --depth=1 https://github.com/SmallK111407/mamba-plugin.git plugins/mamba-plugin/
 ```
 **Gitee**
 ```
-git clone --depth=1 https://gitee.com/SmallK111407/mamba-plugin.git /plugins/mamba-plugin/
+git clone --depth=1 https://gitee.com/SmallK111407/mamba-plugin.git plugins/mamba-plugin/
 ```
 
 ## 功能介绍
