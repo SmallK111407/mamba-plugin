@@ -18,7 +18,7 @@ export class mambaUpdate extends plugin {
   async update(e = this.e) {
     if (!e.isMaster) return
     e.isMaster = true
-    e.msg = `#${e.msg.includes("强制") ? "强制" : ""}更新yenai-plugin`
+    e.msg = `#${e.msg.includes("强制") ? "强制" : ""}更新mamba-plugin`
     const up = new Update(e)
     up.e = e
     return up.update()
